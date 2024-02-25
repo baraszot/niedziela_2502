@@ -24,7 +24,7 @@ Markdown to uproszczony język znaczników do tworzenia sformatowanego tekstu w 
 
 ### Akapity, podziały wierszy
 
-Przejście do nowego akapitu wymaga dwukrotnego przyciśnięcia klawisza Enter.
+Przejście do nowego akapitu wymaga dwukrotnego przyciśnięcia klawisza Enter - a tu jest moje review :D.
 
 Między akapitami musi znajdować się pusta linia.
 
